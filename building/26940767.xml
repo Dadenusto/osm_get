@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="26940767">
+<nd ref="295178531" lat="45.0180497" lon="39.0324438"/>
+<nd ref="295178530" lat="45.0175037" lon="39.0322078"/>
+<nd ref="295178520" lat="45.0174767" lon="39.0323298"/>
+<nd ref="295178518" lat="45.0180227" lon="39.0325658"/>
+<nd ref="295178531" lat="45.0180497" lon="39.0324438"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:country" v="RU"/>
+<tag k="addr:housenumber" v="115"/>
+<tag k="addr:postcode" v="350040"/>
+<tag k="addr:street" v="улица Айвазовского"/>
+<tag k="building" v="apartments"/>
+<tag k="building:levels" v="5"/>
+<tag k="garmin_type" v="0x13"/>
+</way>

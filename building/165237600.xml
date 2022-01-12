@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<way id="165237600">
+<nd ref="1767977198" lat="45.0192695" lon="39.0268602"/>
+<nd ref="1767977211" lat="45.0193046" lon="39.0268573"/>
+<nd ref="3467525893" lat="45.0193678" lon="39.0268522"/>
+<nd ref="2373713269" lat="45.0194394" lon="39.0269040"/>
+<nd ref="6691221897" lat="45.0195166" lon="39.0269884"/>
+<nd ref="1767977220" lat="45.0194570" lon="39.0272658"/>
+<nd ref="6691221900" lat="45.0194340" lon="39.0273372"/>
+<nd ref="6691221899" lat="45.0194135" lon="39.0274061"/>
+<nd ref="6691221898" lat="45.0192824" lon="39.0273574"/>
+<nd ref="1767977202" lat="45.0192799" lon="39.0271189"/>
+<nd ref="1767977198" lat="45.0192695" lon="39.0268602"/>
+<tag k="addr:city" v="Краснодар"/>
+<tag k="addr:country" v="RU"/>
+<tag k="addr:housenumber" v="218/1"/>
+<tag k="addr:street" v="Ставропольская улица"/>
+<tag k="building" v="yes"/>
+<tag k="building:levels" v="1"/>
+<tag k="source" v="PG Mapping Project"/>
+</way>
